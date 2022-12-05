@@ -69,3 +69,5 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 > git branch – посмотреть список веток в репозитории
 
 > git branch <название ветки> - создать новую ветку
+
+> git branch -d <название ветки> – удалить ветку
