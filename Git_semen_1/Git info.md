@@ -70,8 +70,6 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 
 > git branch <название ветки> - создать новую ветку
 
-<<<<<<< HEAD
 > git branch -d <название ветки> – удалить ветку
-=======
+
 > git checkout <название ветки> – переход к другой ветке
->>>>>>> checkout_info
