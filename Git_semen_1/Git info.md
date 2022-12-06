@@ -73,3 +73,5 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 > git branch -d <название ветки> – удалить ветку
 
 > git checkout <название ветки> – переход к другой ветке
+
+>git log --graph - Ключ -graf в связке с командой log позволяет отобразить коммиты в виде дерева.
