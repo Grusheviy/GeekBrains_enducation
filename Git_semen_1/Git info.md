@@ -73,3 +73,6 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 > git branch -d <название ветки> – удалить ветку
 
 > git checkout <название ветки> – переход к другой ветке
+
+> git merge - Чтобы слить любую ветку с текущей, вызываем 
+git merge <имя ветки для слияния с текущей>
