@@ -74,6 +74,9 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 
 > git checkout <название ветки> – переход к другой ветке
 
+> git merge - Чтобы слить любую ветку с текущей, вызываем 
+git merge <имя ветки для слияния с текущей>
+
 # Разграничение понятий Git и GitHub
 
 ![](git.png)
