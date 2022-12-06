@@ -74,8 +74,7 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 
 > git checkout <название ветки> – переход к другой ветке
 
-> git merge - Чтобы слить любую ветку с текущей, вызываем 
-git merge <имя ветки для слияния с текущей>
+> git merge - Чтобы слить любую ветку с текущей, вызываем git merge <имя ветки для слияния с текущей>
 
 >git log --graph - Ключ -graf в связке с командой log позволяет отобразить коммиты в виде дерева.
 
